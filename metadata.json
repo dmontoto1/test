@@ -1,0 +1,7 @@
+{
+  "name": "Copy of ILAC English Placement Test",
+  "description": "Test de nivel de inglés basado en MCER para el Instituto Latinoamericano de Aviación Civil.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
